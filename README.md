@@ -9,7 +9,7 @@ This is a companion project to the blog post [Securing Node.js Communication: A 
 To get started, clone this repository and install the dependencies.
 
 ```bash
-git clone
+git clone git@github.com:hasithaishere/mtls-with-nodejs.git
 cd nodejs-mtls
 npm install
 ```
