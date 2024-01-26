@@ -30,6 +30,12 @@ To run the client, run the following command:
 npm run client
 ```
 
+----
+
+For the sample code to run correctly, please add the test domain names to your `/etc/hosts` file. This will prevent connection errors.
+
+<p align='center'> <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1706291269586/25b2b7f3-8781-438d-b929-c381e7279541.gif"/></p>
+
 ### Related Videos
 
 - [Exploring  Mutual TLS (mTLS) : How to Create Certificate Authority(CA) Certificate using OpenSSL](https://youtu.be/Wueq9fjjyE0)
